@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yashi Sharma 
 
-<!--
-**Yashi-tech-ai/Yashi-tech-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (AI & ML) student at Manipal University Jaipur.
 
-Here are some ideas to get you started:
+💻 Interested in Machine Learning, Deep Learning and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and exploring:
+- Machine Learning with Scikit-learn
+- Deep Learning with PyTorch
+- Data Analysis and Visualisation
+- Python and Data Structures & Algorithms
+
+
+📫 **Connect with me**
+
+- LinkedIn: https://linkedin.com/in/yashi-sharma-5b623b318
+- GitHub: https://github.com/Yashi-tech-ai
+
+--- Always learning, building and exploring new ideas in AI and technology.
